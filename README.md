@@ -2,7 +2,7 @@
 ## Startup
 
 1. Open VS Code and go to File > Open Folder
-2. Go to Unit 1 -> 1.2_investigate folder in VS Code
+2. Go to Unit 1 in VS Code
 3. Create a new file called var_investigate.py
 4. Copy / paste the below code into that file
 5. Play around with the file
